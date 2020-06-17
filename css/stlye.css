@@ -5,6 +5,15 @@ body {
   color: white;
 }
 
+h1 {
+  font-size: 50px;
+}
+
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+
 p {
   color: gray;
   font-size: 21px;
@@ -12,6 +21,10 @@ p {
 
 video {
   object-fit: contain;
+}
+
+.footer {
+  text-align: right;
 }
 
 .tba {
